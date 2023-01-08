@@ -6,8 +6,6 @@ tags:
 categories:
   - 前端
 ---
-# 尤雨溪Frontend Master课程笔记
-
 ## 1.响应式
 
 ### 目的

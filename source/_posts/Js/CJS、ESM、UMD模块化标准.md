@@ -9,6 +9,7 @@ categories:
 ## 1. CommonJS
 
 > node.js的实现中采用了CommonJS标准的一部分，并在其基础上进行了一些调整
+<!--more-->
 
 ### 使用方式
 
@@ -26,8 +27,6 @@ console.log(exports === module.exports) // true
 //   }
 // }
 ```
-
-<!--more-->
 
 ### 特点
 

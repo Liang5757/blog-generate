@@ -6,8 +6,6 @@ tags:
 categories:
   - 大学课程
 ---
-# WordCount (Python)
-
 ### Github项目地址：https://github.com/w1036933220/WordCount
 <!--more-->
 ## 一、解题思路

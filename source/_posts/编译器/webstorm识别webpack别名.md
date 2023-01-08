@@ -6,8 +6,6 @@ tags:
 categories:
   - 编译器配置
 ---
-# webstorm识别webpack别名
-
 > 重装webstorm发现之前配置过的别名识别无了，跳转也跳转不了，在此记录一下
 
 你是否烦恼于设置别名后，webstorm警告并且无法跳转的问题

@@ -7,8 +7,6 @@ categories:
   - 前端
   - 源码解读
 ---
-# crossvent源码解读
-
 > 其实就是一个封装事件绑定的库，但是看到了一些技巧记录下来
 > github地址：https://github.com/bevacqua/crossvent/blob/master/src/crossvent.js
 
