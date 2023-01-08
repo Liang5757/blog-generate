@@ -1,0 +1,23 @@
+- class_name: 封神榜
+  class_desc: 都是强者，说话又好听
+  link_list:
+    - name: 龟速教程
+      link: https://dreamer-liuyang.github.io/
+      avatar: https://dreamer-liuyang.github.io/img/avatar.png
+      descr: 一个靠兴趣制作视频的人
+    - name: CZM
+      link: https://czmderepository.github.io/
+      avatar: https://s1.ax1x.com/2020/09/17/wRG4fS.jpg
+      descr: 学习到无能为力，拼搏到感动自己！
+    - name: CHANX
+      link: https://ischanx.github.io/
+      avatar: https://ischanx.github.io/avatar.png
+      descr: 陈小白の博客
+    - name: DioPong
+      link: https://blog.diopong.top/
+      avatar: https://avatars2.githubusercontent.com/u/48322394?s=460
+      descr: 东风夜放花千树。更吹落，星如雨。
+    - name: 雪之樱的小屋
+      link: https://sliyoxn.github.io/
+      avatar: https://www.sakura-snow.com/wp-content/themes/kratos/static/images/avatar/avatar.jpg
+      descr: 喝茶划水睡大觉
