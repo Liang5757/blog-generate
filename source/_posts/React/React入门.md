@@ -11,7 +11,9 @@ categories:
 1. [React 设计思想](https://github.com/react-guide/react-basic)
 2. [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity/)
 3. [颠覆式前端UI开发框架:React](http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react/)
+
 <!--more-->
+
 ## 2. 安装
 
 ### 2.1 CDN的方式引入
